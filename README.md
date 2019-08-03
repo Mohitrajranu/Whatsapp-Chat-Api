@@ -31,7 +31,6 @@ The U.S. Government Department of Commerce, Bureau of Industry and Security (BIS
 # Chat API [![Latest Stable Version](https://poser.pugx.org/whatsapp/chat-api/v/stable)](https://packagist.org/packages/whatsapp/chat-api) [![Total Downloads](https://poser.pugx.org/whatsapp/chat-api/downloads)](https://packagist.org/packages/whatsapp/chat-api) [![License](https://poser.pugx.org/whatsapp/chat-api/license)](https://packagist.org/packages/whatsapp/chat-api)
 ###############################################################################################################################################################
 WhatsAPI Documentation
-mgp25 edited this page on Apr 11, 2016 · 65 revisions
 Getting Started
 Constructor
 $username = '';    // Your number with country code, ie: 34123456789
